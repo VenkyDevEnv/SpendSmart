@@ -39,3 +39,4 @@ C:\Users\Lenova\source\repos\SpendSmart\SpendSmart\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\Lenova\source\repos\SpendSmart\SpendSmart\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Lenova\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.AssemblyReference.cache
 C:\Users\Lenova\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date
+C:\Users\Lenova\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.sourcelink.json
